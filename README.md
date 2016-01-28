@@ -26,7 +26,7 @@ V8Unpack - a small console program  for rebuild/build configuration files [1C](h
 </ol>
 </ol> 
 #####Командная строка
-
+```
 -UNP[ACK]     in_filename.cf     out_dirname
 -P[ACK]       in_dirname         out_filename.cf
 -UND[EFLATE]  in_filename.data   out_filename
@@ -35,7 +35,7 @@ V8Unpack - a small console program  for rebuild/build configuration files [1C](h
 -BAT
 -PARSE        in_filename.cf     out_dirname      --PARSELEVEL={0|1|2}
 -BUILD        in_dirname         out_filename.cf
-
+```
 ## Plaform 
 
 Windows, POSIX
